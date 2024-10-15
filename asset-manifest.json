@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/minima-master/static/css/main.1e61b070.css",
-    "main.js": "/minima-master/static/js/main.d1db451e.js",
+    "main.js": "/minima-master/static/js/main.c00f96c1.js",
     "static/js/746.f4f06412.chunk.js": "/minima-master/static/js/746.f4f06412.chunk.js",
     "static/media/fatihgencal.png": "/minima-master/static/media/fatihgencal.39d26dfa63e655f1d3e6.png",
     "static/media/appLogo512.png": "/minima-master/static/media/appLogo512.7ad303a840d5837baa90.png",
@@ -10,11 +10,11 @@
     "static/media/facultyLogo.png": "/minima-master/static/media/facultyLogo.b995051c61b781ea5fcd.png",
     "index.html": "/minima-master/index.html",
     "main.1e61b070.css.map": "/minima-master/static/css/main.1e61b070.css.map",
-    "main.d1db451e.js.map": "/minima-master/static/js/main.d1db451e.js.map",
+    "main.c00f96c1.js.map": "/minima-master/static/js/main.c00f96c1.js.map",
     "746.f4f06412.chunk.js.map": "/minima-master/static/js/746.f4f06412.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1e61b070.css",
-    "static/js/main.d1db451e.js"
+    "static/js/main.c00f96c1.js"
   ]
 }
